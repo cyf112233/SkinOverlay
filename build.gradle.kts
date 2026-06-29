@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    paperDevBundle("1.19.2-R0.1-SNAPSHOT")
+    paperDevBundle("1.20.1-R0.1-SNAPSHOT")
 }
 
 java {
